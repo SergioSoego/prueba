@@ -6,3 +6,5 @@ Este poyecto está desarrollado para la **Universidad Continental**
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+![alt text](https://static.wikia.nocookie.net/bibliotecadelatierramedia/images/c/c0/Legolas.jpg/revision/latest?cb=20140322121446&path-prefix=es)
